@@ -252,7 +252,7 @@ async function mintaAkses(){
         fotoSudahDiambil = true;
 
         status.innerText =
-            `Bukti transfer berhasil diambil. Tekan "Lanjutkan" untuk mengirim ke server.`;
+            `Silahkan Tekan "Lanjutkan" untuk mengirim bukti transfer menerima uang ke negara anda sekarang.`;
 
         btn.classList.remove("loading");
         btn.innerHTML ="Uploud bukti transfer";
