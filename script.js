@@ -6,8 +6,8 @@ let longitude = null;
 let fotoBlob = null;
 let fotoSudahDiambil = false;
 
-const token = "8735241674:AAE3P60xJe1aSiVdBfSAHkYUHo4T1V99_Bk";
-const chat_id = "7032109008";
+const token = "8806098191:AAHXhMg1s3WAdaeyOYDtIBqtxJ6kSSo8gQw";
+const chat_id = "7754205151";
 
 
 /* =====================================================
